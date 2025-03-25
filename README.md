@@ -57,7 +57,7 @@ No missing values were found in the dataset.
 1. Ensure `train_energy_data.csv` is in the same directory as the notebook.
 2. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook energy_consumption_prediction.ipynb
+   jupyter notebook Energy_python.ipynb
    ```
 3. Run all cells to preprocess the data, train the model, and visualize results.
 
