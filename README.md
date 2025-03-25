@@ -93,3 +93,7 @@ The plot uses `matplotlib` with a figure size of 8x5 inches.
 ## License
 This project is licensed under the MIT License.
 
+## Contributors:
+
+1.	Md Riajuliislam (Matriculation Number: 242970)
+2.	Showaibuzzaman Showaibuzzaman (Matriculation Number: 258947)
